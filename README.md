@@ -1,3 +1,6 @@
-# USI3dSlice
+# Freehand Ultrasound Probe Navigation using Deep Reinforcement Learning
 
-Hello
+Installing the required packages:
+
+cd DeepRL
+pip install -e .
